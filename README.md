@@ -2,7 +2,7 @@
 Assignment from Dr.Yuqing Hu
 
 Geojson is obtained from https://osmbuildings.org/ 
-Firstly, convert the Geojson to CSV by using the Geojson2CSV.py, or directly in https://www.convertcsv.com/geojson-to-csv.htm
+Firstly, convert the Geojson to CSV by using the Geojson2CSV in Python_code.IPYNB, or directly in https://www.convertcsv.com/geojson-to-csv.htm
 
 data cleaning and analysis, result:https://docs.google.com/spreadsheets/d/1E8WuVcGsJASPrzk51l8YdVZ8lKaGsjnsT6yZpC7dbek/edit?usp=sharing
 
